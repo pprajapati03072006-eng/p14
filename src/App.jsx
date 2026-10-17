@@ -5,7 +5,7 @@ import {
   Navigate,
 } from "react-router-dom";
 
-import StudentRegistration from "./pages/StudentRegistration";
+import StudentRegistration from "./Pages/StudentRegistration";
 
 export default function App() {
   return (
