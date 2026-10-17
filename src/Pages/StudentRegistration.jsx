@@ -1,7 +1,7 @@
 import { useState } from "react";
-import FormInput from "../components/FormInput";
-import FormSelect from "../components/FormSelect";
-import StudentSummary from "../components/StudentSummary";
+import FormInput from "../Components/FormInput";
+import FormSelect from "../Components/FormSelect";
+import StudentSummary from "../Components/StudentSummary";
 
 const initialForm = {
   fullName: "",
